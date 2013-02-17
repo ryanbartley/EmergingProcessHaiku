@@ -4,7 +4,7 @@ using namespace std;
 
 void EmergingProcessesHaikuCinderApp::prepareSettings(Settings* settings)
 {
-    //using the context settings to get 
+    //using the context settings to get to the fullscreen settings.
     settings->setFullScreen(true);
     
 }
@@ -76,7 +76,7 @@ void EmergingProcessesHaikuCinderApp::update()
         
     if ( ((rand() % 100) > 50) && totalSurpassedFrames > 100 && mTrack1->isPlaying())
     {
-        //cout << "I'm in the if part of the statement" << endl;
+        cout << "I'm in the if part of the statement" << endl;
         randomNumber = (rand()%3) + 1;
         int randomFrame1 = randInt(movie1Frames);
         int randomFrame2 = randInt(movie2Frames);
@@ -110,7 +110,7 @@ void EmergingProcessesHaikuCinderApp::update()
                 break;
         }
     } else if (mTrack1->isPlaying()){
-        //cout << "I'm in the else part of the statement" << endl;
+        cout << "I'm in the else part of the statement" << endl;
         switch (randomNumber) {
             case 1:
                 if( mMovie1 ) {
@@ -166,6 +166,9 @@ void EmergingProcessesHaikuCinderApp::presentThe( The chaos )
     }
 }
 
+//Another cool thing is the fact that you can break all these files up into different
+//headers like i did for the presentation of only the draw loop. This is just another
+//manipulatable aspect of this code that I'm super excited about.
 
 
 CINDER_APP_BASIC( EmergingProcessesHaikuCinderApp, RendererGl )
