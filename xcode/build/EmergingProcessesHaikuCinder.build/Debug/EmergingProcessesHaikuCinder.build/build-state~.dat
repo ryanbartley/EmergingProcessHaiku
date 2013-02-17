@@ -1,0 +1,197 @@
+TEmergingProcessesHaikuCinder
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Info.plist" Info.plist
+cCpResource CinderApp.icns ./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.pth EmergingProcessesHaikuCinder_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.o "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder" normal i386
+cTouch "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk
+c000000005100AAE800000000000000EE
+t1358998248
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004D5B2E1E0000000000006500
+t1297821214
+s25856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D5B2E230000000000025C88
+t1297821219
+s154760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004D5B2E230000000000005FA8
+t1297821219
+s24488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004D5B2E240000000000014894
+t1297821220
+s84116
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E8FDD0F0000000000006530
+t1318051087
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E8FDD0F0000000000006560
+t1318051087
+s25952
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004F9D0514000000000007CED0
+t1335690516
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000506C0787000000000002D360
+t1349257095
+s185184
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000506C0B1A00000000004B9FB0
+t1349258010
+s4956080
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000506C0A87000000000032B7E0
+t1349257863
+s3323872
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp
+c00000000511C72B4000000000000037C
+t1360818868
+s892
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app
+t2
+s0
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder
+t2
+s0
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinder.LinkFileList
+c00000000511C72B400000000000000EC
+t1360818868
+s236
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.o
+t2
+s0
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/CinderApp.icns
+c00000000511C6F6A000000000001BEB5
+t1360818026
+s114357
+
+N/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/EmergingProcessesHaikuCinder_Prefix.pch
+c00000000511C6F6A0000000000000093
+t1360818026
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c00000000511C6F6A0000000000000362
+t1360818026
+s866
+
+CBuild AST from "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies67b6bb34aaccb641^dbbfbe34aaccb641^---0#1#0#--18"Check dependencies36"42596631-50C3-4D6B-BE98-74F54CF8261E-
+
+CCompileC ./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.o "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s382511668.803489
+e382511670.874789
+r1
+xCompileC
+x./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.o
+x/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Compile /Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp3dd1cd34aaccb641^b2f2df36aaccb641^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging%20Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp0000000000000000^4129"CompileC ./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.o ../src/EmergingProcessesHaikuCinderApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-generated-files.hmap" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-own-target-headers.hmap" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-all-target-headers.hmap" -iquote "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-project-headers.hmap" "-iquote../../../../../../Documents/XCODE LIBRARIES/cinder_0.8.4_mac/include" -iquote../include "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/build/Debug/include" "-I../../../../../../Documents/XCODE LIBRARIES/cinder_0.8.4_mac/boost" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/DerivedSources/i386" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/DerivedSources" "-F/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/build/Debug" -include /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch -MMD -MT dependencies -MF "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.d" --serialize-diagnostics "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.dia" -c "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/../src/EmergingProcessesHaikuCinderApp.cpp" -o "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinderApp.o"36"278A33BE-D5E4-4297-993D-3EB86EAB0F11-
+
+CCpResource CinderApp.icns ./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icns
+s382511668.763510
+e382511668.774084
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy ./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icnsde93c334aaccb641^172bc634aaccb641^---0#0#0#-19%DVTDocumentLocation2@196"file://localhost/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging%20Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icns000000000080d041^607"CpResource CinderApp.icns ./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources/CinderApp.icns    cd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/CinderApp.icns" "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Resources"36"B15987E7-05C7-498B-A4DC-30BD82FA4610-
+
+CLd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder" normal i386
+s382511670.882360
+e382511673.549916
+r1
+xLd
+x/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection193"Link /Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder01fae136aaccb641^7ec78c39aaccb641^---0#0#0#--1465"Ld ./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder normal i386    cd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk "-L/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/build/Debug" "-F/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/build/Debug" -filelist "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/Objects-normal/i386/EmergingProcessesHaikuCinder.LinkFileList" -mmacosx-version-min=10.5 "../../../../../../Documents/XCODE LIBRARIES/cinder_0.8.4_mac/lib/libcinder_d.a" -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/MacOS/EmergingProcessesHaikuCinder"36"EB7B11DA-5A7E-4C35-B390-9329307EA44D-
+
+CProcessInfoPlistFile "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Info.plist" Info.plist
+s382511668.747064
+e382511668.750982
+r1
+xProcessInfoPlistFile
+x/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist605bbf34aaccb641^d53fc034aaccb641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging%20Processes/EmergingProcessesHaikuCinder/xcode/Info.plist0000000000000000^630"ProcessInfoPlistFile ./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Info.plist Info.plist    cd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app/Contents/Info.plist"36"161FA1D2-3DA7-4803-BA9D-DB58236558CB-
+
+CProcessPCH++ /Users/ryanbartley/Library/Developer/Xcode/DerivedData/EmergingProcessesHaikuCinder-axgucizueledricpvgtpawovbnjh/Index/PrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gjcwetieosjhlhcsnaetonbxojgb_ast/EmergingProcessesHaikuCinder_Prefix.pch.pth EmergingProcessesHaikuCinder_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.pth EmergingProcessesHaikuCinder_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s382511668.783368
+e382511668.796511
+r1
+xProcessPCH++
+x/var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.pth
+xEmergingProcessesHaikuCinder_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Precompile EmergingProcessesHaikuCinder_Prefix.pch92b3c834aaccb641^57e8cb34aaccb641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging%20Processes/EmergingProcessesHaikuCinder/xcode/EmergingProcessesHaikuCinder_Prefix.pch0000000000000000^3882"ProcessPCH++ /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.pth EmergingProcessesHaikuCinder_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-generated-files.hmap" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-own-target-headers.hmap" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-all-target-headers.hmap" -iquote "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/EmergingProcessesHaikuCinder-project-headers.hmap" "-iquote../../../../../../Documents/XCODE LIBRARIES/cinder_0.8.4_mac/include" -iquote../include "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/build/Debug/include" "-I../../../../../../Documents/XCODE LIBRARIES/cinder_0.8.4_mac/boost" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/DerivedSources/i386" "-I/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/EmergingProcessesHaikuCinder.build/Debug/EmergingProcessesHaikuCinder.build/DerivedSources" "-F/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/build/Debug" --serialize-diagnostics /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.dia -c "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/EmergingProcessesHaikuCinder_Prefix.pch" -o /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zg/nnytl3_x1510pxbvgjfbl_gc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmergingProcessesHaikuCinder_Prefix-gesyqldvhznxnafusqueihsoxsam/EmergingProcessesHaikuCinder_Prefix.pch.d36"AB4CF41E-EF42-4F39-986C-8147FE6A147D-
+
+CTouch "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app"
+s382511673.558337
+e382511673.868694
+r1
+xTouch
+x/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Touch /Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app09ff8e39aaccb641^0a64de39aaccb641^---0#0#0#--329"Touch ./build/Debug/EmergingProcessesHaikuCinder.app    cd "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode"    /usr/bin/touch -c "/Users/ryanbartley/Desktop/ITP/CProgramming/Emerging Processes/EmergingProcessesHaikuCinder/xcode/./build/Debug/EmergingProcessesHaikuCinder.app"36"AA8C4F80-4541-4E83-98DD-177BDF8BDF07-
+
